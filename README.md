@@ -9,3 +9,5 @@ O respositório é composto de:
 4) [Dia 3](https://github.com/mariguilardi/STBioPython/tree/main/Dia%203): apresentação em PDF com materiais adicionais para estudar Python, notebook sobre Estatística Descritiva e gráficos em Python, notebook com exercícios para limpeza de dados, inferência e produção de gráficos, e planilhas para serem utilizadas com notebooks.
 
 Os notebooks que finalizam com _COMPLETO apresentam os códigos mostrados em aula e aqueles com _ALUNOS não apresentam os códigos.
+
+Informações O material aqui disponibilizado está licenciado sob a Attribution-NonCommercial-NoDerivatives 4.0 International. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc-nd/4.0/
