@@ -10,4 +10,4 @@ O respositório é composto de:
 
 Os notebooks que finalizam com _COMPLETO apresentam os códigos mostrados em aula e aqueles com _ALUNOS não apresentam os códigos.
 
-Informações O material aqui disponibilizado está licenciado sob a Attribution-NonCommercial-NoDerivatives 4.0 International. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc-nd/4.0/
+Importante: O material aqui disponibilizado está licenciado sob a Attribution-NonCommercial-NoDerivatives 4.0 International. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc-nd/4.0/
